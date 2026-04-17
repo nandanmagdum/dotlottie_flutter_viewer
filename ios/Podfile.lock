@@ -1,0 +1,29 @@
+PODS:
+  - dotlottie_flutter (0.0.2):
+    - Flutter
+    - LottieFiles-dotLottie-iOS (~> 0.14.1)
+  - Flutter (1.0.0)
+  - LottieFiles-dotLottie-iOS (0.14.1)
+
+DEPENDENCIES:
+  - dotlottie_flutter (from `.symlinks/plugins/dotlottie_flutter/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - LottieFiles-dotLottie-iOS
+
+EXTERNAL SOURCES:
+  dotlottie_flutter:
+    :path: ".symlinks/plugins/dotlottie_flutter/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  dotlottie_flutter: ae62eb415e6aef8e94f9292d4b991d6ce203a245
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  LottieFiles-dotLottie-iOS: ef16db39d6713da3598792af0f81f8d64984ed1a
+
+PODFILE CHECKSUM: 3c63482e143d1b91d2d2560aee9fb04ecc74ac7e
+
+COCOAPODS: 1.16.2
